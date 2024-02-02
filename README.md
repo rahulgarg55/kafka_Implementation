@@ -1,0 +1,1 @@
+Scalability and Performance: Kafka is designed to be highly scalable and offers high throughput and low latency. It can handle millions of messages per second and is used by many organizations for real-time data processing and analytics.
